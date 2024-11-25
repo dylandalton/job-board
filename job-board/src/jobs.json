@@ -85,17 +85,17 @@
       }
     },
     {
-      "id": "efde",
-      "title": "Test Job 1",
-      "type": "Part-Time",
-      "location": "Glasgow, City of Glasgow, Scotland, GBR",
-      "description": "This is just a test job",
-      "salary": "$70K - 80K",
+      "id": "de2e",
+      "title": "Machine Learning Intern",
+      "type": "Internship",
+      "location": "Glasgow",
+      "description": "Making use of the latest ML models",
+      "salary": "$50K - 60K",
       "company": {
-        "name": "Glasgow Developers",
-        "description": "The company is based in Glasgow",
-        "contactEmail": "recruiter@gd.com",
-        "contactPhone": "07843855882"
+        "name": "ML For Research",
+        "description": "scientific studies in ML",
+        "contactEmail": "studies@ml.com",
+        "contactPhone": "0785656154951"
       }
     }
   ]
