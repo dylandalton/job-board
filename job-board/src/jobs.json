@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "de2e",
-      "title": "Machine Learning Intern",
-      "type": "Internship",
-      "location": "Glasgow",
-      "description": "Making use of the latest ML models",
-      "salary": "$50K - 60K",
-      "company": {
-        "name": "ML For Research",
-        "description": "scientific studies in ML",
-        "contactEmail": "studies@ml.com",
-        "contactPhone": "0785656154951"
-      }
     }
   ]
 }
